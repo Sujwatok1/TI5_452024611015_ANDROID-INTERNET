@@ -6,7 +6,7 @@
 
 * **Nama**: Anasufi Ajwa Nazli Nailulhaq
 * **NIM**: 452024611015
-* **Repository**: 
+* **Repository**: https://github.com/Sujwatok1/TI5_452024611015_ANDROID-INTERNET.git
 
 ---
 
@@ -69,7 +69,7 @@ Dalam arsitektur keamanan Android, izin (*permission*) dikategorikan ke dalam be
 
 1. **Clone Repository**
    ```bash
-  
+  https://github.com/Sujwatok1/TI5_452024611015_ANDROID-INTERNET.git
    ```
 
 2. **Buka di Android Studio**
